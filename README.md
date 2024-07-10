@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-</div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=legkovoyg&theme=dark&hide_border=true&border_radius=6.8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div><a  style="padding-top:20px" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=legkovoyg&theme=dark&hide_border=true&border_radius=6.8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 
 <!--
