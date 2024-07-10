@@ -2,6 +2,7 @@
 - ⚡ I’m a junior backend developer
 - 🔭 I’m currently working at Ufa State Petroleum Technological University
 - 🌱 I’m currently learning Go
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -13,8 +14,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-</div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=legkovoyg&theme=dark&hide_border=true&border_radius=6.8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legkovoyg)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=legkovoyg&theme=dark&hide_border=true&border_radius=6.8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legkovoyg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **legkovoyg/legkovoyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
