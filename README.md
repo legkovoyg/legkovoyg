@@ -1,5 +1,6 @@
-## Hi there 👋
-- 🔭 I’m currently working on Ufa State Petroleum Technological University
+## About me
+- ⚡ I’m a junior backend developer
+- 🔭 I’m currently working at Ufa State Petroleum Technological University
 - 🌱 I’m currently learning Go
 ### :hammer_and_wrench: Languages and Tools :
 <div>
