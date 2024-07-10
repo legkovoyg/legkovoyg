@@ -1,7 +1,7 @@
 ## About me
 - ⚡ I’m a junior backend developer
 - 🔭 I’m currently working at Ufa State Petroleum Technological University
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go, aiogram
 
 
 
