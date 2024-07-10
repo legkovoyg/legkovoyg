@@ -14,7 +14,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/legkovoyg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legkovoyg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
